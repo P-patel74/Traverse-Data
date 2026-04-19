@@ -1,1 +1,2 @@
 # Traverse-Data
+This project is a JavaScript data analysis tool that loads external text files and processes different datasets based on user selection. It can analyze survey responses (Yes, No, Maybe), categorize ages into different ranges, and count even and odd numbers. The program uses loops, conditionals, arrays, and file loading to process data efficiently and display summarized results on the page.
